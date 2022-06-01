@@ -2,7 +2,7 @@
 
 Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 
-![alt tag]()
+![alt tag](https://github.com/Mdue17/Cuisine-Restaurant/blob/master/cuisine%20restuarant.jpeg)
 
 ## How It's Made:
 
